@@ -1,0 +1,92 @@
+ul {
+	list-style: none;
+}
+
+a {
+	color: #000 !important;
+	text-decoration: none !important;
+}
+
+a:hover {
+	color: #000 !important;
+	text-decoration: none !important;
+}
+
+.no-padding {
+	padding: 0px !important;
+}
+
+.font-cinza {
+	color: #bbbbbb !important;
+}
+.font700 {
+	font-weight: 700;
+}
+
+.font-branca {
+	color: #ffffff !important;
+}
+
+.background-cinza {
+	background: #f8f8f8 !important;
+}
+
+.background-cinzaescuro {
+	background: #999999 !important;
+}
+
+.background-vermelho {
+	background: #d9554e !important;
+}
+.container .conteudo {
+	padding: 20px;
+	border-radius: 0.25rem;
+	border: 1px solid #dddddd;
+	margin-top: 50px;
+}
+
+.container .titulo {
+	margin-bottom: 15px;
+}
+
+.container .senha {
+	padding: 15px;
+	border-radius: 0.25rem;
+	border: 1px solid #dddddd;
+}
+
+.container .content {
+	padding: 0pt 30pt;
+}
+
+.container .row {
+	padding: 15px 0px;
+}
+
+.container .row .div-porcentagem {
+	margin-right: 2px;
+	border-radius: 0.25rem;
+}
+
+.container .row .div-rate {
+	margin-left: 2px;
+	border-radius: 0.25rem;
+}
+
+.container .row .porcentagem {
+	padding: 2px 7px;
+}
+
+.container .row .complexidade {
+	padding: 2px 7px;
+}
+.gradiente {
+	border-radius: 0.25rem;
+    background: -webkit-linear-gradient(left, red, orange, yellow, green, green);
+    background: -o-linear-gradient(left, red, orange, yellow, green, green);
+    background: -moz-linear-gradient(left, red, orange, yellow, green, green);
+    background: linear-gradient(to right, red, orange, yellow, green, green);;
+    background-size: 320px;
+    background-position-x: 0px;
+    background-repeat: no-repeat;
+}
